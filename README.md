@@ -1,27 +1,34 @@
-# 👩‍💻 **Your Name Here**  
-*Your Inspiring Quote Here*  
+# 🌸 Your Name Here 🌸
 
-## 🌸 Tech Stack  
+> _"Your favorite quote goes here!"_
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+### 💻 Tech Stack:
+- Python
+- HTML
+- CSS
+- Bootstrap
+- Canva
+- Adobe
+- Figma
 
-## 🌸 Socials  
+### 📱 Find Me On:
+- [Facebook](https://www.facebook.com/yourprofile)
+- [Pinterest](https://www.pinterest.com/yourprofile)
+- (Add more links as needed)
 
-<a href="https://facebook.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>  
-<a href="https://pinterest.com/yourprofile" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+---
 
-## 💬 About Me  
-I'm a passionate designer and developer. I love combining creative visuals with technical skills to build awesome projects.  
-Feel free to reach out to me if you'd like to collaborate on something fun and creative! 💕
+### 💡 About Me:
+Hi! I'm [Your Name], a tech enthusiast with a passion for design and development. I'm currently exploring the world of Python, HTML, CSS, and Bootstrap, and I love creating beautiful designs using tools like Canva, Adobe, and Figma. 
 
-## 🌸🌷✨  
-![Floral Design](https://your-image-url.com/your-floral-design.jpg)  
-*Replace this link with your actual floral image URL*
+I'm always looking to learn and collaborate on new projects!
+
+---
+
+#### 📈 My GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_rank=false&theme=radical)
+
+---
+
+### 💖 Let's Connect!
+Feel free to reach out to me via any of my socials listed above. I'm always happy to connect with like-minded people!
